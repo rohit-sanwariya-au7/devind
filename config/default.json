@@ -1,0 +1,3 @@
+{
+    "mongoURI":"mongodb+srv://rohit:rohit@devindconnector-aoipk.mongodb.net/test?retryWrites=true&w=majority"
+}
